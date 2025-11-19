@@ -98,3 +98,8 @@ out/*
 # Dora runtime files
 dora-coordinator.txt
 dora-daemon.txt
+
+# other
+OCVS/
+lbcsoft/
+temp/
